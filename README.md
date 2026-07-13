@@ -1,19 +1,22 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Tosha-enc;Привет+мир!;Я+люблю+код+и+кофе" />
+  <!-- Анимированная гифка с программистом вместо статичного текста -->
+  <img src="https://raw.githubusercontent.com/Tosha-enc/Tosha-enc/main/assets/code.gif" width="100%" alt="coding animation" />
 </h1>
 
+<!-- Твой ASCII-арт -->
+<pre align="center">
+   ████████╗ ██████╗ ███████╗██╗  ██╗ █████╗ 
+   ╚══██╔══╝██╔═══██╗██╔════╝██║  ██║██╔══██╗
+      ██║   ██║   ██║███████╗███████║███████║
+      ██║   ██║   ██║╚════██║██╔══██║██╔══██║
+      ██║   ╚██████╔╝███████║██║  ██║██║  ██║
+      ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+</pre>
+
 <p align="center">
+  <!-- Счётчик просмотров профиля -->
   <img src="https://komarev.com/ghpvc/?username=Tosha-enc&style=flat-square&color=blue" alt="Profile views" />
 </p>
-
-<pre align="center">
-  _____         _     
- |_   _|       | |    
-   | | ___  ___| |__  
-   | |/ _ \/ __| '_ \ 
-   | | (_) \__ \ | | |
-   \_/\___/|___/_| |_|
-</pre>
 
 ---
 
@@ -55,12 +58,13 @@
 ### 📊 Моя статистика GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tosha-enc&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tosha-enc&layout=compact&theme=radical" />
+  <!-- Исправленные ссылки с параметром v=1 для обновления кеша -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tosha-enc&show_icons=true&theme=radical&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tosha-enc&layout=compact&theme=radical&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tosha-enc&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tosha-enc&theme=radical&hide_border=true&v=1" />
 </p>
 
 ---
