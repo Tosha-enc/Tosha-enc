@@ -1,9 +1,7 @@
 <h1 align="center">
-  <!-- Анимированная гифка с программистом вместо статичного текста -->
-  <img src="https://raw.githubusercontent.com/Tosha-enc/Tosha-enc/main/assets/code.gif" width="100%" alt="coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding animation" />
 </h1>
 
-<!-- Твой ASCII-арт -->
 <pre align="center">
    ████████╗ ██████╗ ███████╗██╗  ██╗ █████╗ 
    ╚══██╔══╝██╔═══██╗██╔════╝██║  ██║██╔══██╗
@@ -14,7 +12,6 @@
 </pre>
 
 <p align="center">
-  <!-- Счётчик просмотров профиля -->
   <img src="https://komarev.com/ghpvc/?username=Tosha-enc&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
@@ -58,7 +55,6 @@
 ### 📊 Моя статистика GitHub
 
 <p align="center">
-  <!-- Исправленные ссылки с параметром v=1 для обновления кеша -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tosha-enc&show_icons=true&theme=radical&v=1" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tosha-enc&layout=compact&theme=radical&v=1" />
 </p>
