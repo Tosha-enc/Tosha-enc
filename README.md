@@ -70,10 +70,10 @@
 Я всегда открыт к новым знакомствам и интересным проектам. Буду рад пообщаться!
 
 <p align="center">
-  <a href="https://t.me/твой_телеграм">
+  <a href="https://t.me/Tosha1111e">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://vk.com/твой_вк">
+  <a href="https://vk.com/dejinxxx">
     <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
   <a href="https://github.com/Tosha-enc">
