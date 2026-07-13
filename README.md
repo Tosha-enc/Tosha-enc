@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding animation" />
+  <img src="https://images.steamusercontent.com/ugc/31068228490531610/7367282F549ACE0E1C726E029CBC2BFEE0B9D4E0/?imw=512&imh=225&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="100%" alt="coding animation" />
 </h1>
 
 <pre align="center">
